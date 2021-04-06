@@ -1,0 +1,13 @@
+---
+Standards:
+  -
+    Title: TE Proof of Concept
+    Description: A project to demonstrate creating TE curriculum in Learn.
+    UID: 3104c3e3-d01d-447f-bc69-84e483a47adc
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: fe70fea2-5b64-47de-91fb-e5705742a75b
+        Path: /01-test-unit/01-introduction.md
